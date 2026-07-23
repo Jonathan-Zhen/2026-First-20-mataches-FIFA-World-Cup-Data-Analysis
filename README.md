@@ -1,7 +1,7 @@
-# 2026-First-20-mataches-FIFA-World-Cup-Data-Analysis
+# 2026-First-20-matches-FIFA-World-Cup-Data-Analysis
 Exploratory Data Analysis (EDA) and Feature Engineering using FIFA World Cup match statistics to identify the key characteristics of winning teams.
 
-# ⚽ What Makes Teams Win? - 2026-First-20-mataches-FIFA-World-Cup-Data-Analysis
+# ⚽ What Makes Teams Win? - 2026-First-20-matches-FIFA-World-Cup-Data-Analysis
 
 
 ## Project Overview
